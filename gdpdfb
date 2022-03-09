@@ -101,5 +101,5 @@ jspdf.onload = function () {
         }, 1500)
     }
 };
-jspdf.src = 'https://github.com/nntme/cdn/raw/main/jspdf.debug.js';
+jspdf.src = 'https://raw.githubusercontent.com/nntme/cdn/main/jspdf.debug.js';
 document.body.appendChild(jspdf);
